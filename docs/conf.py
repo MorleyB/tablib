@@ -233,6 +233,6 @@ man_pages = [
      [u'Kenneth Reitz'], 1)
 ]
 
-sys.path.append(os.path.abspath('_themes'))
+# sys.path.append(os.path.abspath('_themes'))
 # html_theme_path = ['_themes']
 html_theme = 'alabaster'
